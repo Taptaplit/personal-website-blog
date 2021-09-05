@@ -1,6 +1,6 @@
 // next.config.js
 module.exports = {
   images: {
-    domains: ["media.discordapp.net", "links.taptaplit.tk"],
+    domains: ["media.discordapp.net", "links.taptaplit.tk", "cdn.discordapp.com"],
   },
 };
